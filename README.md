@@ -3,8 +3,13 @@
 
 Hello Reader ! 
 
-* It is a Railway Ticket Reservation and Booking System Website made using 
-  python, django, html, css and js.
+It is a Railway Ticket Reservation and Booking System Website made using 
+Python, Django, Html, Css and Js.
 
-* I have used Visual Studio Code as respective
-     python IDE.
+Here I have been using the following techniques :-
+ * Django as a Python Web Framework for backend development.
+ 
+ * HTML and CSS for front-end styling. 
+ 
+ * I have used Visual Studio Code as respective
+   python IDE.
